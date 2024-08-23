@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "CSPM Executive Dashboard",
+      "shortname" :"CSPM",
+      "widgets": [
+        {
+          "id": 1,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        },
+        {
+          "id": 2,
+          "values": [7253, 36, 681, 1689],
+          "color": [
+            "rgb(91,166,92)",
+            "rgb(201,204,220)",
+            "rgb(250,215,50)",
+            "rgb(186,50,44)"
+          ],
+          "title": "Cloud Account Risk Assessment",
+          "labels": ["Passed", "Not avaliable", "Warning", "Failed"]
+        }
+      ]
+    },
+    {
+      "name": "CWPP Dashboard",
+      "shortname" :"CWPP",
+      "widgets": [
+        {
+          "id": 3,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        },
+        {
+          "id": 4,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        }
+      ]
+    },
+    {
+      "name": "Registry Scan",
+      "shortname" :"Image",
+      "widgets": [
+        {
+          "id": 5,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        },
+        {
+          "id": 6,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        },
+        {
+          "id": 7,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        },
+        {
+          "id": 8,
+          "values": [2, 2],
+          "color": ["rgb(224,235,255)", "rgb(84,119,253)"],
+          "title": "Cloud Accounts",
+          "labels": ["Connected", "Not Connected"]
+        }
+      ]
+    }
+  ]
+}
